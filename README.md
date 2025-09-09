@@ -73,6 +73,7 @@ We group projects into random categories that have absolutely nothing to do with
 - [PagePrism](https://pageprism.com) - Awesome Website / Saas Uptime Monitor ( Free and Paid )
 - [GIF.new](https://www.gif.new/) - Instantly capture and create personal response GIFs.
 - [Fyzz.chat](https://www.fyzz.chat/chat) - All of the best language models in one place
+- [AI Agent](https://aiagent.surf) - Build AI browser agent for free
 
 ## 🎸 Air Guitar Championships
 
