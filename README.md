@@ -43,6 +43,7 @@ We group projects into random categories that have absolutely nothing to do with
 - [millionship.dev](https://millionship.dev) - playful directory app for indie devs 🏴‍☠️
 - [affiliationlist.com](https://affiliationlist.com) - Submit you affiliation program, and be promoted by content creator
 - [FoundersWall](https://www.founderswall.com) - A raw public board where indie founders log their wins, fails, and chaos. No likes. No hype. Just building in public, for real.
+- [Peeonauts](https://peeonauts.com/) - Live from Space: Real-time monitoring of the International Space Station's urine, waste water, and clean water tank levels.
 
 ## 🦄 Unicorn Sightings
 
