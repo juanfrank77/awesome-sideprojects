@@ -5,6 +5,7 @@ We group projects into random categories that have absolutely nothing to do with
 
 ## 🎩 Magical Mushrooms
 
+- [ConfettiSaaS](https://confettisaas.com) - Showcase your SaaS
 - [BacklinkDog](https://backlinkdog.com) - Backlink Monitoring. Stop losing SEO juice from removed or changed backlinks. 
 - [Tracker - Manager for Bluesky](https://linktr.ee/bluesky.tracker) - A mobile app for real-time tracking & managing of your Bluesky followers & followings!
 - [Startup Listing](https://startuplist.ing) - A platform to list your startup and get discovered by the right people.
